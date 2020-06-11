@@ -3,8 +3,10 @@ Luke Beasley, Shahen Mirzoyan, Maxime Tchibozo, Akshay Pakhle
 
 Guidelines : https://datascience.columbia.edu/dsis-center-health-analytics-launches-covid-19-data-challenge
 
+Our models used XGBoost, Logistic Regression and ARMA models to predict the number of deceased, infected and recovered patients for each country in the world, one week ahead of time. These models are located in the "Our models" folder. The "Other models" folder contains other interesting approaches to solve this problem.
+
 Data Sources:
-1.
+1. https://github.com/CSSEGISandData/COVID-19
 2. https://ourworldindata.org/covid-testing
 
 Predict values of the cumulative number of confirmed cases, recovered cases and deaths for May 1, 2020.
@@ -22,3 +24,4 @@ Evaluation for Track 1:
     Allowed data and methods for Track 1:
 
     Any legal data and methods are allowed, as long as the code is provided.
+
