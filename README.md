@@ -1,2 +1,2 @@
 # Side-Projects
-Things I am curious about. 
+Things I am curious about.
